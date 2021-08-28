@@ -12,6 +12,13 @@ int GCD(int a, int b) {
 	}
 }
 
+//int GCD(int a, int b) {
+//	if (b == 0)
+//		return a;
+//	GCD(b, a % b);
+//}
+
+
 int LCM(int a, int b) {
 	int gcd = GCD(a, b);
 	return (a / gcd) * (b / gcd) * gcd;
