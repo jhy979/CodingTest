@@ -1,11 +1,5 @@
 # Baekjoon
 > 출처 : https://covenant.tistory.com/224
-## 📣 공지: 코딩테스트 완벽 정복 로드맵
-
-![https://github.com/KoEonYack/Tistory-Coveant/blob/master/Article/Note/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC_%EC%9C%84%ED%95%9C_%EB%B0%B1%EC%A4%80%EB%AC%B8%EC%A0%9C_%EC%B6%94%EC%B2%9C/img/map_simple.png?raw=true](https://github.com/KoEonYack/Tistory-Coveant/blob/master/Article/Note/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC_%EC%9C%84%ED%95%9C_%EB%B0%B1%EC%A4%80%EB%AC%B8%EC%A0%9C_%EC%B6%94%EC%B2%9C/img/map_simple.png?raw=true)
-
-[로드맵 보러가기!](https://covenant.tistory.com/235)
-
 ## 준비운동 PART1. 튼튼한 기본기
 
 > 알고리즘 공부를 시작하면 만나게되는 약수, N진수, GCD, LCM, 소수 등의 문제는 변형하여 출제 혹은 어려운 문제를 풀이의 중간 단계에 들어가기도 합니다. 화이트보드 면접을 준비한다면 다양한 정렬 주제와 함께 준비해야할 1순위이기도 합니다. 파이썬으로 코테를 준비하는 분들이라면 내장함수를 사용하지말고 직접 구현해보세요.
@@ -13,7 +7,7 @@
 - [ ] [약수 구하기](https://www.acmicpc.net/problem/2501) (🥉 브론즈 3티어) <br>
 👉 for 문에서 /2를 해버리는 방법도 있음.<br><br>
 - [ ] [이진수](https://www.acmicpc.net/problem/3460) (🥉 브론즈 3티어) <br>
-👉 vector의 특성을 까먹지 말자. ``` sort(a.begin(), a.end() , less<int>()); ``` <br><br>
+👉 vector의 특성을 까먹지 말자. `sort(a.begin(), a.end() , less<int>());` <br><br>
 - [ ] [최소, 최대](https://www.acmicpc.net/problem/10818) (🥉 브론즈 3티어)
 - [ ] [지능형 기차 2](https://www.acmicpc.net/problem/2460) (🥉 브론즈 3티어)
 - [ ] [피보나치 수 5](https://www.acmicpc.net/problem/10870) (🥉 브론즈 2티어) <br>
