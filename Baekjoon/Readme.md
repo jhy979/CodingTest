@@ -22,7 +22,7 @@
 - [x] [N번째 큰 수](https://www.acmicpc.net/problem/2693) (🥈실버 5티어) <br>
 👉 `단순 구현 문제! 단, vector의 재사용을 해야하는 위치를 잘 생각합시다!`<br><br>
 - [x] [소수 찾기](https://www.acmicpc.net/problem/1978) (🥈실버 4티어) <br>
-👉 소수는 에라토스테네스의 체
+👉 `소수는 에라토스테네스의 체` <br><br>
 - [x] [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) (🥈실버 4티어) <br>
 👉 `asd`<br><br>
 - [x] [소수](https://www.acmicpc.net/problem/2581) (🥈실버 4티어) <br>
