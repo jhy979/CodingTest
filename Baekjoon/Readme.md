@@ -14,7 +14,8 @@
 👉 `while문 탈출 조건을 웬만해서는 앞에 써보자!`<br><br>
 - [x] [피보나치 수 5](https://www.acmicpc.net/problem/10870) (🥉 브론즈 2티어) <br>
 👉 `재귀는 항상 base case를 신경 써야함.` <br><br>
-- [x] [일곱 난쟁이](https://www.acmicpc.net/problem/2309) (🥉 브론즈 2티어)
+- [x] [일곱 난쟁이](https://www.acmicpc.net/problem/2309) (🥉 브론즈 2티어) <br>
+👉 `단순 구현 문제..` <br><br>
 - [x] [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) (🥈실버 5티어)
 👉 알다시피 a-b b-a 계속하면 됨 // 나보다 더 편하게 재귀 (b, a%b) 를 b==0 까지 계속 반복한 경우도있음.
 - [x] [N번째 큰 수](https://www.acmicpc.net/problem/2693) (🥈실버 5티어)
