@@ -9,21 +9,24 @@
 - [x] [이진수](https://www.acmicpc.net/problem/3460) (🥉 브론즈 3티어) <br>
 👉 `while 반복문 탈출 조건을 웬만해서는 앞에 쓰는 습관을 들여보자!`<br><br>
 - [x] [최소, 최대](https://www.acmicpc.net/problem/10818) (🥉 브론즈 3티어) <br>
-👉 `vector에서도 arr.front() arr.back()이 가능합니다.`<br><br>
+👉 `vector에서도 arr.front() arr.back()이 가능.`<br><br>
 - [x] [지능형 기차 2](https://www.acmicpc.net/problem/2460) (🥉 브론즈 3티어) <br>
 👉 `while문 탈출 조건을 웬만해서는 앞에 써보자!`<br><br>
 - [x] [피보나치 수 5](https://www.acmicpc.net/problem/10870) (🥉 브론즈 2티어) <br>
 👉 `재귀는 항상 base case를 신경 써야함.` <br><br>
 - [x] [일곱 난쟁이](https://www.acmicpc.net/problem/2309) (🥉 브론즈 2티어) <br>
 👉 `단순 구현 문제..` <br><br>
-- [x] [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) (🥈실버 5티어)
-👉 알다시피 a-b b-a 계속하면 됨 // 나보다 더 편하게 재귀 (b, a%b) 를 b==0 까지 계속 반복한 경우도있음.
-- [x] [N번째 큰 수](https://www.acmicpc.net/problem/2693) (🥈실버 5티어)
+- [x] [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) (🥈실버 5티어) <br>
+👉 ``알다시피 a-b b-a 계속하면 됨<br>
+👉 `나보다 더 편하게 재귀 (b, a%b) 를 b==0 까지 계속 반복한 경우도있음. `<br><br>
+- [x] [N번째 큰 수](https://www.acmicpc.net/problem/2693) (🥈실버 5티어) <br>
+👉 `asd`<br><br>
 - [x] [소수 찾기](https://www.acmicpc.net/problem/1978) (🥈실버 4티어)
 👉 소수는 에라토스테네스의 체
 - [x] [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) (🥈실버 4티어)
+👉 `asd`<br><br>
 - [x] [소수](https://www.acmicpc.net/problem/2581) (🥈실버 4티어)
-
+👉 `asd`<br><br>
 ## 준비운동 PART2. 약점 체크
 
 문제풀이를 쭉쭉하기 전, 기본 알고리즘을 잘 습득했는지 점검할 수 있는 문제를 소개합니다. 뼈대 문제는 시간을 두고 반복 구현하여 손에 익혀서 응용문제가 나왔을 때 유연하게 대처할 수 있는 생각을 길러야 합니다.
