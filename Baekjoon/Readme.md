@@ -8,7 +8,8 @@
 👉` for문에서 /2를 해버리는 방법도 있음.`<br><br>
 - [x] [이진수](https://www.acmicpc.net/problem/3460) (🥉 브론즈 3티어) <br>
 👉 `while 반복문 탈출 조건을 웬만해서는 앞에 쓰는 습관을 들여보자!`<br><br>
-- [ ] [최소, 최대](https://www.acmicpc.net/problem/10818) (🥉 브론즈 3티어)
+- [x] [최소, 최대](https://www.acmicpc.net/problem/10818) (🥉 브론즈 3티어) <br>
+👉 `vector에서도 arr.front() arr.back()이 가능합니다.`<br><br>
 - [ ] [지능형 기차 2](https://www.acmicpc.net/problem/2460) (🥉 브론즈 3티어)
 - [ ] [피보나치 수 5](https://www.acmicpc.net/problem/10870) (🥉 브론즈 2티어) <br>
 👉 재귀는 항상 base case를 신경 써야함. <br><br>
