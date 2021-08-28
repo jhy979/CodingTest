@@ -12,16 +12,16 @@
 👉 `vector에서도 arr.front() arr.back()이 가능합니다.`<br><br>
 - [x] [지능형 기차 2](https://www.acmicpc.net/problem/2460) (🥉 브론즈 3티어) <br>
 👉 `while문 탈출 조건을 웬만해서는 앞에 써보자!`<br><br>
-- [ ] [피보나치 수 5](https://www.acmicpc.net/problem/10870) (🥉 브론즈 2티어) <br>
-👉 재귀는 항상 base case를 신경 써야함. <br><br>
-- [ ] [일곱 난쟁이](https://www.acmicpc.net/problem/2309) (🥉 브론즈 2티어)
-- [ ] [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) (🥈실버 5티어)
+- [x] [피보나치 수 5](https://www.acmicpc.net/problem/10870) (🥉 브론즈 2티어) <br>
+👉 `재귀는 항상 base case를 신경 써야함.` <br><br>
+- [x] [일곱 난쟁이](https://www.acmicpc.net/problem/2309) (🥉 브론즈 2티어)
+- [x] [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) (🥈실버 5티어)
 👉 알다시피 a-b b-a 계속하면 됨 // 나보다 더 편하게 재귀 (b, a%b) 를 b==0 까지 계속 반복한 경우도있음.
-- [ ] [N번째 큰 수](https://www.acmicpc.net/problem/2693) (🥈실버 5티어)
-- [ ] [소수 찾기](https://www.acmicpc.net/problem/1978) (🥈실버 4티어)
+- [x] [N번째 큰 수](https://www.acmicpc.net/problem/2693) (🥈실버 5티어)
+- [x] [소수 찾기](https://www.acmicpc.net/problem/1978) (🥈실버 4티어)
 👉 소수는 에라토스테네스의 체
-- [ ] [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) (🥈실버 4티어)
-- [ ] [소수](https://www.acmicpc.net/problem/2581) (🥈실버 4티어)
+- [x] [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) (🥈실버 4티어)
+- [x] [소수](https://www.acmicpc.net/problem/2581) (🥈실버 4티어)
 
 ## 준비운동 PART2. 약점 체크
 
