@@ -31,16 +31,27 @@
 
 문제풀이를 쭉쭉하기 전, 기본 알고리즘을 잘 습득했는지 점검할 수 있는 문제를 소개합니다. 뼈대 문제는 시간을 두고 반복 구현하여 손에 익혀서 응용문제가 나왔을 때 유연하게 대처할 수 있는 생각을 길러야 합니다.
 
-- [ ] 재귀 탐색의 기본: [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) (🥈실버 1티어)
-- [ ] 스택의 응용: [괄호의 값](https://www.acmicpc.net/problem/2504) (🥈실버 2티어)
-- [ ] 시뮬레이션 기본: [빗물](https://www.acmicpc.net/problem/14719) (🥇 골드 5티어)
-- [ ] 완전탐색의 유연한 생각: [가르침](https://www.acmicpc.net/problem/1062) (🥇 골드 5티어)
-- [ ] 그리디의 기본: [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) (🥇 골드 2티어)
-- [ ] 투 포인터의 기본: [부분합](https://www.acmicpc.net/problem/1806) (🥇골드 4티어)
-- [ ] 벨만포드 뼈대문제: [최소비용 구하기](https://www.acmicpc.net/problem/1916) (🥇 골드 5티어)
-- [ ] Prime, Kruskal 뼈대문제: [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) (🥇 골드 4티어)
-- [ ] KMP 뼈대문제: [부분 문자열](https://www.acmicpc.net/problem/16916) (🥇 골드 4티어)
-- [ ] 위상정렬: [줄 세우기](https://www.acmicpc.net/problem/2252) (🥇 골드 2티어)
+- [x] 재귀 탐색의 기본: [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) (🥈실버 1티어) <br>
+👉 `dfs를 사용해서 풀이, min max 비교를 위한 초기화 시 max = -1e9로 아주 큰 값을 집어 넣자.`<br><br>
+👉 `나는 비교를 위한 max=-1을 집어넣는 안 좋은 습관을 가지고 있음. 반드시 -1e9로 넣는 습관을 들이자.`<br><br>
+- [ ] 스택의 응용: [괄호의 값](https://www.acmicpc.net/problem/2504) (🥈실버 2티어) <br>
+👉 ``<br><br>
+- [ ] 시뮬레이션 기본: [빗물](https://www.acmicpc.net/problem/14719) (🥇 골드 5티어) <br>
+👉 ``<br><br>
+- [ ] 완전탐색의 유연한 생각: [가르침](https://www.acmicpc.net/problem/1062) (🥇 골드 5티어) <br>
+👉 ``<br><br>
+- [ ] 그리디의 기본: [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) (🥇 골드 2티어) <br>
+👉 ``<br><br>
+- [ ] 투 포인터의 기본: [부분합](https://www.acmicpc.net/problem/1806) (🥇골드 4티어) <br>
+👉 ``<br><br>
+- [ ] 벨만포드 뼈대문제: [최소비용 구하기](https://www.acmicpc.net/problem/1916) (🥇 골드 5티어) <br>
+👉 ``<br><br>
+- [ ] Prime, Kruskal 뼈대문제: [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) (🥇 골드 4티어) <br>
+👉 ``<br><br>
+- [ ] KMP 뼈대문제: [부분 문자열](https://www.acmicpc.net/problem/16916) (🥇 골드 4티어) <br>
+👉 ``<br><br>
+- [ ] 위상정렬: [줄 세우기](https://www.acmicpc.net/problem/2252) (🥇 골드 2티어) <br>
+👉 ``<br><br>
 
 ## 알고리즘 다지기 기초 백준 문제 추천
 > 문제풀이 강훈련 전 시간을 재고 빠르게 아이디어를 생각해서 풀 수 있는지 점검할 수 있는 문제를 모아두었습니다.
