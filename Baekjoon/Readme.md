@@ -17,15 +17,15 @@
 - [x] [일곱 난쟁이](https://www.acmicpc.net/problem/2309) (🥉 브론즈 2티어) <br>
 👉 `단순 구현 문제..` <br><br>
 - [x] [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) (🥈실버 5티어) <br>
-👉 ``알다시피 a-b b-a 계속하면 됨<br>
+👉 `a-b b-a 계속하면 됨`<br>
 👉 `나보다 더 편하게 재귀 (b, a%b) 를 b==0 까지 계속 반복한 경우도있음. `<br><br>
 - [x] [N번째 큰 수](https://www.acmicpc.net/problem/2693) (🥈실버 5티어) <br>
-👉 `asd`<br><br>
-- [x] [소수 찾기](https://www.acmicpc.net/problem/1978) (🥈실버 4티어)
+👉 `단순 구현 문제! 단, vector의 재사용을 해야하는 위치를 잘 생각합시다!`<br><br>
+- [x] [소수 찾기](https://www.acmicpc.net/problem/1978) (🥈실버 4티어) <br>
 👉 소수는 에라토스테네스의 체
-- [x] [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) (🥈실버 4티어)
+- [x] [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) (🥈실버 4티어) <br>
 👉 `asd`<br><br>
-- [x] [소수](https://www.acmicpc.net/problem/2581) (🥈실버 4티어)
+- [x] [소수](https://www.acmicpc.net/problem/2581) (🥈실버 4티어) <br>
 👉 `asd`<br><br>
 ## 준비운동 PART2. 약점 체크
 
