@@ -24,7 +24,7 @@
 - [x] [소수 찾기](https://www.acmicpc.net/problem/1978) (🥈실버 4티어) <br>
 👉 `소수는 에라토스테네스의 체` <br><br>
 - [x] [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) (🥈실버 4티어) <br>
-👉 `asd`<br><br>
+👉 `모듈을 분리, 함수를 분리하는 방법을 생각하여 조금 더 코드를 깔끔하게 만들어 봅시다.`<br><br>
 - [x] [소수](https://www.acmicpc.net/problem/2581) (🥈실버 4티어) <br>
 👉 `asd`<br><br>
 ## 준비운동 PART2. 약점 체크
