@@ -35,7 +35,7 @@
 👉 `dfs를 사용해서 풀이, min max 비교를 위한 초기화 시 max = -1e9로 아주 큰 값을 집어 넣자.`<br><br>
 👉 `나는 비교를 위한 max=-1을 집어넣는 안 좋은 습관을 가지고 있음. 반드시 -1e9로 넣는 습관을 들이자.`<br><br>
 - [ ] 스택의 응용: [괄호의 값](https://www.acmicpc.net/problem/2504) (🥈실버 2티어) <br>
-👉 ``<br><br>
+👉 `int형과 char형, ASCII코드에서 엄청난 고생을 했다... 이 부분을 어떻게 구현해야할까 항상 생각하자.`<br><br>
 - [ ] 시뮬레이션 기본: [빗물](https://www.acmicpc.net/problem/14719) (🥇 골드 5티어) <br>
 👉 ``<br><br>
 - [ ] 완전탐색의 유연한 생각: [가르침](https://www.acmicpc.net/problem/1062) (🥇 골드 5티어) <br>
