@@ -15,3 +15,15 @@ str.erase(s.end() - 4, s.end()); // 뒤에서 4개 없애기
 ```
 - 자바스크립트는 다음과 같은데 erase가 마치 `str.splice(4,-4)` 과 같은 역할을 합니다. <br>
 ![image](https://user-images.githubusercontent.com/32920566/132079538-ac2b82c9-1153-4efd-94f0-98ff3ebb2a1a.png)
+
+
+## 문자열 찾기
+
+### find
+```c++
+if (str.find("rich") != string::npos) {
+  cout << "찾는 문자가 존재합니다";
+int index = str.find("rich");   //해당 문자의 시작 인덱스 반환
+```
+- `string::npos` 는 Not Found를 의미합니다.
+- 해당 문자의 시작 인덱스를 반환합니다.
