@@ -37,8 +37,9 @@
 - [ ] 스택의 응용: [괄호의 값](https://www.acmicpc.net/problem/2504) (🥈실버 2티어) <br>
 👉 `int형과 char형, ASCII코드에서 엄청난 고생을 했다... 이 부분을 어떻게 구현해야할까 항상 생각하자.`<br><br>
 👉 `stack.top() 연산시에는 반드시 stack.empty()로 스택의 상태를 먼저 체크합시다.`<br><br>
-- [ ] 시뮬레이션 기본: [빗물](https://www.acmicpc.net/problem/14719) (🥇 골드 5티어) <br>
-👉 ``<br><br>
+- [x] 시뮬레이션 기본: [빗물](https://www.acmicpc.net/problem/14719) (🥇 골드 5티어) <br>
+👉 `vector<int> vec(W); 선언하면 입력도 vec[i]로 받을 수 있습니다.`<br>
+👉 `시뮬레이션은 생각의 틀을 넓게 열어두는 것이 포인트!, 아이디어를 찾아봅시다.`<br><br>
 - [ ] 완전탐색의 유연한 생각: [가르침](https://www.acmicpc.net/problem/1062) (🥇 골드 5티어) <br>
 👉 ``<br><br>
 - [ ] 그리디의 기본: [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) (🥇 골드 2티어) <br>
