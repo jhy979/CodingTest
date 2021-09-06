@@ -12,6 +12,12 @@
 
 6. Allocator-aware - map container는 저장공간의 필요에 따라서 allocator 객체를 사용합니다. (`동적할당` 합니다.)
 
+## Map vs Set
+
+### Map : key,value 값 쌍으로 이루어져 있어 이진 트리 구조를 이루는데 key값을 기준으로 정렬됩니다.
+
+### Set : 배열인데 중복이 허용안되는 배열이라고 생각하면 편합니다. (key값과 value값이 같습니다.)
+
 ## 선언 방법
 ```c++
 map<int, int> m; // 기본 선언 방법
