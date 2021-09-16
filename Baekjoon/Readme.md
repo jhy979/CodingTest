@@ -41,12 +41,13 @@
 👉 `vector<int> vec(W); 선언하면 입력도 vec[i]로 받을 수 있습니다.`<br>
 👉 `시뮬레이션은 생각의 틀을 넓게 열어두는 것이 포인트!, 아이디어를 찾아봅시다.`<br><br>
 - [x] 완전탐색의 유연한 생각: [가르침](https://www.acmicpc.net/problem/1062) (🥇 골드 5티어) <br>
-👉 `브루트 포스 느낌이 dfs처럼 visited를 체크하면서 true -> 함수 -> false로 빠져나오면 되겠다!`<br><br>
+👉 `브루트 포스 느낌이 dfs처럼 visited를 체크하면서 true -> 함수 -> false로 빠져나오면 되겠다!`<br>
 👉 `코테에서는 웬만하면 전역으로 선언해서 쉽게 접근해버리자 (대신 전역 변수, 전역 배열 초기화에 대해서는 알아야한다!)`<br><br>
 - [ ] 그리디의 기본: [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) (🥇 골드 2티어) <br>
-👉 ``<br><br>
-- [ ] 투 포인터의 기본: [부분합](https://www.acmicpc.net/problem/1806) (🥇골드 4티어) <br>
-👉 ``<br><br>
+👉 `시간 복잡도가 어느정도 높더라도 가능한 모든 케이스를 커버할 수 있는 아이디어를 찾아보자!`<br><br>
+- [x] 투 포인터의 기본: [부분합](https://www.acmicpc.net/problem/1806) (🥇골드 4티어) <br>
+👉 `시간복잡도 낮게, 수열을 탐색하는 문제들에서 주로 `<br>
+👉 `마치 pivot을 설정하는 것처럼 아이디어를 생각하자`<br><br>
 - [ ] 벨만포드 뼈대문제: [최소비용 구하기](https://www.acmicpc.net/problem/1916) (🥇 골드 5티어) <br>
 👉 ``<br><br>
 - [ ] Prime, Kruskal 뼈대문제: [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) (🥇 골드 4티어) <br>
