@@ -32,10 +32,10 @@
 문제풀이를 쭉쭉하기 전, 기본 알고리즘을 잘 습득했는지 점검할 수 있는 문제를 소개합니다. 뼈대 문제는 시간을 두고 반복 구현하여 손에 익혀서 응용문제가 나왔을 때 유연하게 대처할 수 있는 생각을 길러야 합니다.
 
 - [x] 재귀 탐색의 기본: [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) (🥈실버 1티어) <br>
-👉 `dfs를 사용해서 풀이, min max 비교를 위한 초기화 시 max = -1e9로 아주 큰 값을 집어 넣자.`<br><br>
+👉 `dfs를 사용해서 풀이, min max 비교를 위한 초기화 시 max = -1e9로 아주 큰 값을 집어 넣자.`<br>
 👉 `나는 비교를 위한 max=-1을 집어넣는 안 좋은 습관을 가지고 있음. 반드시 -1e9로 넣는 습관을 들이자.`<br><br>
 - [ ] 스택의 응용: [괄호의 값](https://www.acmicpc.net/problem/2504) (🥈실버 2티어) <br>
-👉 `int형과 char형, ASCII코드에서 엄청난 고생을 했다... 이 부분을 어떻게 구현해야할까 항상 생각하자.`<br><br>
+👉 `int형과 char형, ASCII코드에서 엄청난 고생을 했다... 이 부분을 어떻게 구현해야할까 항상 생각하자.`<br>
 👉 `stack.top() 연산시에는 반드시 stack.empty()로 스택의 상태를 먼저 체크합시다.`<br><br>
 - [x] 시뮬레이션 기본: [빗물](https://www.acmicpc.net/problem/14719) (🥇 골드 5티어) <br>
 👉 `vector<int> vec(W); 선언하면 입력도 vec[i]로 받을 수 있습니다.`<br>
@@ -48,8 +48,9 @@
 - [x] 투 포인터의 기본: [부분합](https://www.acmicpc.net/problem/1806) (🥇골드 4티어) <br>
 👉 `시간복잡도 낮게, 수열을 탐색하는 문제들에서 주로 `<br>
 👉 `마치 pivot을 설정하는 것처럼 아이디어를 생각하자`<br><br>
-- [ ] 벨만포드 뼈대문제: [최소비용 구하기](https://www.acmicpc.net/problem/1916) (🥇 골드 5티어) <br>
-👉 ``<br><br>
+- [x] 벨만포드 뼈대문제: [최소비용 구하기](https://www.acmicpc.net/problem/1916) (🥇 골드 5티어) <br>
+👉 `다익스트라 알고리즘 사용하여 최소 비용 구하기`<br>
+👉 `priority_queue를 이용하여 -cost를 사용하면 최소 간선을 찾는 시간을 단축할 수 있다! `<br><br>
 - [ ] Prime, Kruskal 뼈대문제: [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) (🥇 골드 4티어) <br>
 👉 ``<br><br>
 - [ ] KMP 뼈대문제: [부분 문자열](https://www.acmicpc.net/problem/16916) (🥇 골드 4티어) <br>
