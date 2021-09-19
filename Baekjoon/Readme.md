@@ -51,8 +51,9 @@
 - [x] 벨만포드 뼈대문제: [최소비용 구하기](https://www.acmicpc.net/problem/1916) (🥇 골드 5티어) <br>
 👉 `다익스트라 알고리즘 사용하여 최소 비용 구하기`<br>
 👉 `priority_queue를 이용하여 -cost를 사용하면 최소 간선을 찾는 시간을 단축할 수 있다! `<br><br>
-- [ ] Prime, Kruskal 뼈대문제: [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) (🥇 골드 4티어) <br>
-👉 ``<br><br>
+- [x] Prime, Kruskal 뼈대문제: [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) (🥇 골드 4티어) <br>
+👉 `weight 오름차순으로 정렬하여 사이클 생기지 않는다면 연결하기`<br>
+👉 `사이클 생성 여부는 merge, getParent를 통해 확인할 수 있다`<br><br>
 - [ ] KMP 뼈대문제: [부분 문자열](https://www.acmicpc.net/problem/16916) (🥇 골드 4티어) <br>
 👉 ``<br><br>
 - [ ] 위상정렬: [줄 세우기](https://www.acmicpc.net/problem/2252) (🥇 골드 2티어) <br>
