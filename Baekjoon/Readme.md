@@ -53,11 +53,12 @@
 👉 `priority_queue를 이용하여 -cost를 사용하면 최소 간선을 찾는 시간을 단축할 수 있다! `<br><br>
 - [x] Prime, Kruskal 뼈대문제: [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) (🥇 골드 4티어) <br>
 👉 `weight 오름차순으로 정렬하여 사이클 생기지 않는다면 연결하기`<br>
-👉 `사이클 생성 여부는 merge, getParent를 통해 확인할 수 있다`<br><br>
+👉 `사이클 생성 여부는 merge, getParent를 통해 확인할 수 있다.`<br><br>
 - [ ] KMP 뼈대문제: [부분 문자열](https://www.acmicpc.net/problem/16916) (🥇 골드 4티어) <br>
 👉 ``<br><br>
 - [ ] 위상정렬: [줄 세우기](https://www.acmicpc.net/problem/2252) (🥇 골드 2티어) <br>
-👉 ``<br><br>
+👉 `순서가 정해져있는 작업 (키 순으로 줄 세우기, 졸업 요건)`<br>
+👉 `Directed Acyclic Graph이어야 한다.`<br><br>
 
 ## 알고리즘 다지기 기초 백준 문제 추천
 > 문제풀이 강훈련 전 시간을 재고 빠르게 아이디어를 생각해서 풀 수 있는지 점검할 수 있는 문제를 모아두었습니다.
