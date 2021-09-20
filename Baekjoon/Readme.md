@@ -56,21 +56,23 @@
 👉 `사이클 생성 여부는 merge, getParent를 통해 확인할 수 있다.`<br><br>
 - [ ] KMP 뼈대문제: [부분 문자열](https://www.acmicpc.net/problem/16916) (🥇 골드 4티어) <br>
 👉 ``<br><br>
-- [ ] 위상정렬: [줄 세우기](https://www.acmicpc.net/problem/2252) (🥇 골드 2티어) <br>
+- [x] 위상정렬: [줄 세우기](https://www.acmicpc.net/problem/2252) (🥇 골드 2티어) <br>
 👉 `순서가 정해져있는 작업 (키 순으로 줄 세우기, 졸업 요건)`<br>
 👉 `Directed Acyclic Graph이어야 한다.`<br><br>
 
 ## 알고리즘 다지기 기초 백준 문제 추천
 > 문제풀이 강훈련 전 시간을 재고 빠르게 아이디어를 생각해서 풀 수 있는지 점검할 수 있는 문제를 모아두었습니다.
 
-- [ ] [수들의 합](https://www.acmicpc.net/problem/1789) (🥈실버 5티어)
-- [ ] [사탕 게임](https://www.acmicpc.net/problem/3085) (🥈실버 4티어)
-- [ ] [동전 1](https://www.acmicpc.net/problem/2293) (🥈실버 1티어)
-- [ ] [동전 2](https://www.acmicpc.net/problem/2294) (🥈실버 1티어)
-- [ ] [단지번호붙이기](https://www.acmicpc.net/problem/2667) (🥈실버 1티어)
-- [ ] [감소하는 수](https://www.acmicpc.net/problem/1038) (🥇골드 5티어)
-- [ ] [가르침](https://www.acmicpc.net/problem/1062) (🥇골드 4티어)
-- [ ] [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) (🥇골드 5티어)
+- [x] [수들의 합](https://www.acmicpc.net/problem/1789) (🥈실버 5티어) <br>
+👉 `입력의 범위를 살펴보고 너무 크면 for문의 괄호 안의 것들도 overhead라고 생각해야합니다.`<br>
+👉 `int : -21억 ~ 21억 , unsigned int : 0 ~ 42억 long long : -9조 ~ 9조`<br><br>
+- [ ] [사탕 게임](https://www.acmicpc.net/problem/3085) (🥈실버 4티어) <br>
+- [ ] [동전 1](https://www.acmicpc.net/problem/2293) (🥈실버 1티어) <br>
+- [ ] [동전 2](https://www.acmicpc.net/problem/2294) (🥈실버 1티어) <br>
+- [ ] [단지번호붙이기](https://www.acmicpc.net/problem/2667) (🥈실버 1티어) <br>
+- [ ] [감소하는 수](https://www.acmicpc.net/problem/1038) (🥇골드 5티어) <br>
+- [ ] [가르침](https://www.acmicpc.net/problem/1062) (🥇골드 4티어) <br>
+- [ ] [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) (🥇골드 5티어) <br>
 
 ## 최고빈출 DFS, BFS 기본문제
 > 코딩테스트에서 최고 빈출 문제는 완전탐색, DFS, BFS라고 생각합니다. 연습할 수 있는 문제를 소개합니다. 해설은 제 블로그 [🏁 거침없는 코딩테스트 DFS BFS 문제 추천](https://covenant.tistory.com/147)를 참고하세요.
