@@ -68,7 +68,8 @@
 👉 `int : -21억 ~ 21억 , unsigned int : 0 ~ 42억 long long : -9조 ~ 9조`<br><br>
 - [x] [사탕 게임](https://www.acmicpc.net/problem/3085) (🥈실버 4티어) <br>
 👉 `brute force하게 생각하고 이것이 시간 복잡도를 넘어서는지 계산부터 해봅시다. 브루트 포스가 나쁜 것만은 아닙니다.`<br><br>
-- [ ] [동전 1](https://www.acmicpc.net/problem/2293) (🥈실버 1티어) <br>
+- [x] [동전 1](https://www.acmicpc.net/problem/2293) (🥈실버 1티어) <br>
+👉 `뭔가 dp같다? 점화식을 세울 수 있는지 10분만 고민해봅시다. 그러면 코딩은 바로 끝납니다.`<br><br>
 - [ ] [동전 2](https://www.acmicpc.net/problem/2294) (🥈실버 1티어) <br>
 - [ ] [단지번호붙이기](https://www.acmicpc.net/problem/2667) (🥈실버 1티어) <br>
 - [ ] [감소하는 수](https://www.acmicpc.net/problem/1038) (🥇골드 5티어) <br>
