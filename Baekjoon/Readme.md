@@ -72,7 +72,8 @@
 👉 `뭔가 dp같다? 점화식을 세울 수 있는지 10분만 고민해봅시다. 그러면 코딩은 바로 끝납니다.`<br><br>
 - [x] [동전 2](https://www.acmicpc.net/problem/2294) (🥈실버 1티어) <br>
 👉 `뭔가 dp같다? 목표 금액까지 하나씩 하나씩 저장해가며 저장한 값을 계속 갱신한다는 마인드!`<br><br>
-- [ ] [단지번호붙이기](https://www.acmicpc.net/problem/2667) (🥈실버 1티어) <br>
+- [x] [단지번호붙이기](https://www.acmicpc.net/problem/2667) (🥈실버 1티어) <br>
+👉 `상하좌우 등 움직임을 표현할 경우 dx = {1,0,-1,0} dy = {0,1,0,0,-1}로 나누어서 각 단계를 생각해봅시다.`<br><br>
 - [ ] [감소하는 수](https://www.acmicpc.net/problem/1038) (🥇골드 5티어) <br>
 - [ ] [가르침](https://www.acmicpc.net/problem/1062) (🥇골드 4티어) <br>
 - [ ] [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) (🥇골드 5티어) <br>
