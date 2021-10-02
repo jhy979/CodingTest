@@ -75,7 +75,9 @@
 - [x] [단지번호붙이기](https://www.acmicpc.net/problem/2667) (🥈실버 1티어) <br>
 👉 `상하좌우 등 움직임을 표현할 경우 dx = {1,0,-1,0} dy = {0,1,0,0,-1}로 나누어서 각 단계를 생각해봅시다.`<br><br>
 - [ ] [감소하는 수](https://www.acmicpc.net/problem/1038) (🥇골드 5티어) <br>
-- [ ] [가르침](https://www.acmicpc.net/problem/1062) (🥇골드 4티어) <br>
+- [x] [가르침](https://www.acmicpc.net/problem/1062) (🥇골드 4티어) <br>
+👉 `생각대로 했는데 안된다? 반드시 엣지 케이스를 찾아봅시다. 이 경우 anta()tica를 처리해주니 바로 되었습니다.` <br>
+👉 `조합(Combination)을 만들고 싶다? DFS로 하되, 인자로 하나씩 증가하는 idx값을 넣어주어야합니다.`  <br><br>
 - [ ] [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) (🥇골드 5티어) <br>
 
 ## 최고빈출 DFS, BFS 기본문제
