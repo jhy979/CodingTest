@@ -86,7 +86,8 @@
 - [x] [DFS와 BFS](https://www.acmicpc.net/problem/1260)(🥈실버 1티어)
 👉 `본격적으로 dfs bfs 하기 전에 시작 노드를 반드시 visited처리해줍시다.` <br>
 👉 `배열 초기화 fill함수가 조금 이상하다고 느껴졌음` <br><br>
-- [ ] [전투](https://www.acmicpc.net/problem/1303) (🥈실버 1티어)
+- [x] [전투](https://www.acmicpc.net/problem/1303) (🥈실버 1티어)
+👉 `그래프에서 가로 세로를 잘 보세요!` <br><br>
 - [ ] [미로 탐색](https://www.acmicpc.net/problem/2178) (🥈실버 1티어)
 - [ ] [음식물 피하기](https://www.acmicpc.net/problem/1743) (🥈실버 1티어)
 - [ ] [바이러스](https://www.acmicpc.net/problem/2606) (🥈실버 2티어)
