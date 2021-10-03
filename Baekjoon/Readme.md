@@ -96,7 +96,8 @@
 👉 `BFS는 트리가 깊어지는 그런 느낌으로 최단거리를 보장합니다.` <br><br>
 - [x] [음식물 피하기](https://www.acmicpc.net/problem/1743) (🥈실버 1티어) <br>
 👉 `모든걸 dfs 안에서 하려고 하지말자! main안에서도 많은 것들을 할 수 있어!` <br><br>
-- [ ] [바이러스](https://www.acmicpc.net/problem/2606) (🥈실버 2티어) <br>
+- [x] [바이러스](https://www.acmicpc.net/problem/2606) (🥈실버 2티어) <br>
+👉 `완전탐색을 배열로 하든, 연결리스트로 하든 반드시 (u,v) (v,u) 양쪽을 초기화 시켜줍시다.` <br><br>
 - [ ] [A → B](https://www.acmicpc.net/problem/16953) (🥇 골드 5티어) <br>
 - [ ] [숨바꼭질 2](https://www.acmicpc.net/problem/12851) (🥇 골드 5티어) <br>
 - [ ] [숨바꼭질 3](https://www.acmicpc.net/problem/13549) (🥇 골드 5티어) <br>
