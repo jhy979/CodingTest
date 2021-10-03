@@ -83,54 +83,59 @@
 ## 최고빈출 DFS, BFS 기본문제
 > 코딩테스트에서 최고 빈출 문제는 완전탐색, DFS, BFS라고 생각합니다. 연습할 수 있는 문제를 소개합니다. 해설은 제 블로그 [🏁 거침없는 코딩테스트 DFS BFS 문제 추천](https://covenant.tistory.com/147)를 참고하세요.
 
-- [x] [DFS와 BFS](https://www.acmicpc.net/problem/1260)(🥈실버 1티어)
+- [x] [DFS와 BFS](https://www.acmicpc.net/problem/1260)(🥈실버 1티어) <br>
 👉 `본격적으로 dfs bfs 하기 전에 시작 노드를 반드시 visited처리해줍시다.` <br>
 👉 `배열 초기화 fill함수가 조금 이상하다고 느껴졌음` <br><br>
-- [x] [전투](https://www.acmicpc.net/problem/1303) (🥈실버 1티어)
+- [x] [전투](https://www.acmicpc.net/problem/1303) (🥈실버 1티어) <br>
 👉 `그래프에서 가로 세로를 잘 보세요!` <br><br>
-- [ ] [미로 탐색](https://www.acmicpc.net/problem/2178) (🥈실버 1티어)
-- [ ] [음식물 피하기](https://www.acmicpc.net/problem/1743) (🥈실버 1티어)
-- [ ] [바이러스](https://www.acmicpc.net/problem/2606) (🥈실버 2티어)
-- [ ] [A → B](https://www.acmicpc.net/problem/16953) (🥇 골드 5티어)
-- [ ] [숨바꼭질 2](https://www.acmicpc.net/problem/12851) (🥇 골드 5티어)
-- [ ] [숨바꼭질 3](https://www.acmicpc.net/problem/13549) (🥇 골드 5티어)
-- [ ] [숨바꼭질 4](https://www.acmicpc.net/problem/13913) (🥇 골드 4티어)
-- [ ] [이모티콘](https://www.acmicpc.net/problem/14226) (🥇 골드 5티어)
-- [ ] [아기 상어2](https://www.acmicpc.net/problem/17086) (🥇 골드 5티어)
-- [ ] [달리기](https://www.acmicpc.net/problem/16930) (🏅 플래티넘 3티어)
+- [ ] [미로 탐색](https://www.acmicpc.net/problem/2178) (🥈실버 1티어) <br>
+👉 `DFS냐 BFS냐?` <br>
+👉 `DFS알고리즘 특성상 최단거리를 찾으려면 완전 탐색을 하고 그중에서 가장 작은 값을 선택해야 하는데 경로가 아주  많을 수 있으므로 시간 복잡도가 매우 커집니다.` <br>
+👉 `반면 BFS는 최단거리를 보장하기 때문에 이러한 문제들(최단거리 구하기)은 BFS로 풀어야 한다고 합니다.` <br><br>
+👉 `BFS는 트리가 깊어지는 그런 느낌으로 최단거리를 보장합니다.` <br><br>
+
+- [ ] [음식물 피하기](https://www.acmicpc.net/problem/1743) (🥈실버 1티어) <br>
+- [ ] [바이러스](https://www.acmicpc.net/problem/2606) (🥈실버 2티어) <br>
+- [ ] [A → B](https://www.acmicpc.net/problem/16953) (🥇 골드 5티어) <br>
+- [ ] [숨바꼭질 2](https://www.acmicpc.net/problem/12851) (🥇 골드 5티어) <br>
+- [ ] [숨바꼭질 3](https://www.acmicpc.net/problem/13549) (🥇 골드 5티어) <br>
+- [ ] [숨바꼭질 4](https://www.acmicpc.net/problem/13913) (🥇 골드 4티어) <br>
+- [ ] [이모티콘](https://www.acmicpc.net/problem/14226) (🥇 골드 5티어) <br>
+- [ ] [아기 상어2](https://www.acmicpc.net/problem/17086) (🥇 골드 5티어) <br>
+- [ ] [달리기](https://www.acmicpc.net/problem/16930) (🏅 플래티넘 3티어) <br>
 
 ## DP 문제풀이 강훈련 백준 문제 추천
 > 예전보다 DP 출제빈도가 떨어진 것 같지만, 여전히 출제되는 DP 문제입니다. 아래의 문제를 풀었을 때 감이 안 온다면 [YES24. 다이나믹 프로그래밍](http://www.yes24.com/Product/Goods/3356129?OzSrank=1) 책을 통해서 DP 문제의 접근방법을 익히는 것을 추천합니다.
 
-- [ ] [퇴사 2](https://www.acmicpc.net/problem/15486) (🥈실버 2티어)
-- [ ] [점프](https://www.acmicpc.net/problem/1890) (🥈실버 2티어)
-- [ ] [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989) (🥈실버 1티어)
-- [ ] [기타리스트](https://www.acmicpc.net/problem/1495) (🥈실버 1티어)
-- [ ] [크리보드](https://www.acmicpc.net/problem/11058) (🥈실버 1티어)
-- [ ] [BOJ 거리](https://www.acmicpc.net/problem/12026) (🥈실버 1티어)
-- [ ] [평범한 배낭](https://www.acmicpc.net/problem/12865) (🥇골드 5티어)
-- [ ] [1학년](https://www.acmicpc.net/problem/5557) (🥇골드 5티어)
-- [ ] [데스노트](https://www.acmicpc.net/problem/2281) (🥇골드 4티어)
-- [ ] [소형기관차](https://www.acmicpc.net/problem/2616) (🥇골드 4티어)
-- [ ] [괄호](https://www.acmicpc.net/problem/10422) (🥇골드 4티어)
-- [ ] [뮤탈리스크](https://www.acmicpc.net/problem/12869) (🥇골드 4티어)
-- [ ] [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) (🥇골드 3티어)
-- [ ] [Acka](https://www.acmicpc.net/problem/12996) (🥇골드 3티어)
-- [ ] [출근 기록](https://www.acmicpc.net/problem/14238) (🥇골드 3티어)
-- [ ] [파일 합치기](https://www.acmicpc.net/problem/11066) (🥇골드 3티어)
-- [ ] [팰린드롬?](https://www.acmicpc.net/problem/10942) (🥇골드 2티어)
-- [ ] [ABC](https://www.acmicpc.net/problem/12969) (🥇골드 1티어)
+- [ ] [퇴사 2](https://www.acmicpc.net/problem/15486) (🥈실버 2티어) <br>
+- [ ] [점프](https://www.acmicpc.net/problem/1890) (🥈실버 2티어) <br>
+- [ ] [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989) (🥈실버 1티어) <br>
+- [ ] [기타리스트](https://www.acmicpc.net/problem/1495) (🥈실버 1티어) <br>
+- [ ] [크리보드](https://www.acmicpc.net/problem/11058) (🥈실버 1티어) <br>
+- [ ] [BOJ 거리](https://www.acmicpc.net/problem/12026) (🥈실버 1티어) <br>
+- [ ] [평범한 배낭](https://www.acmicpc.net/problem/12865) (🥇골드 5티어) <br>
+- [ ] [1학년](https://www.acmicpc.net/problem/5557) (🥇골드 5티어) <br>
+- [ ] [데스노트](https://www.acmicpc.net/problem/2281) (🥇골드 4티어) <br>
+- [ ] [소형기관차](https://www.acmicpc.net/problem/2616) (🥇골드 4티어) <br>
+- [ ] [괄호](https://www.acmicpc.net/problem/10422) (🥇골드 4티어) <br>
+- [ ] [뮤탈리스크](https://www.acmicpc.net/problem/12869) (🥇골드 4티어) <br>
+- [ ] [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) (🥇골드 3티어) <br>
+- [ ] [Acka](https://www.acmicpc.net/problem/12996) (🥇골드 3티어) <br>
+- [ ] [출근 기록](https://www.acmicpc.net/problem/14238) (🥇골드 3티어) <br>
+- [ ] [파일 합치기](https://www.acmicpc.net/problem/11066) (🥇골드 3티어) <br>
+- [ ] [팰린드롬?](https://www.acmicpc.net/problem/10942) (🥇골드 2티어) <br>
+- [ ] [ABC](https://www.acmicpc.net/problem/12969) (🥇골드 1티어) <br>
 
 ## 최근 빈출 유형 백준 문제 추천
 > 최근에 자주 출제되는 백트래킹, 트리, DP 문제입니다. 최근 경향의 문제를 맛보고 싶다면 다음 문제들을 추천합니다.
 
-- [ ] [신기한 소수](https://www.acmicpc.net/problem/2023) (🥇골드 5티어)
-- [ ] [두 동전](https://www.acmicpc.net/problem/16197) (🥇골드 4티어)
-- [ ] [Strahler 순서](https://www.acmicpc.net/problem/9470) (🥇골드 3티어)
-- [ ] [ACM Craft](https://www.acmicpc.net/problem/1005) (🥇골드 3티어)
-- [ ] [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) (🥇골드 3티어)
-- [ ] [합리적인 이동경로](https://www.acmicpc.net/problem/2176) (🥇골드 2티어)
-- [ ] [우수 마을](https://www.acmicpc.net/problem/1949) (🥇골드 1티어)
+- [ ] [신기한 소수](https://www.acmicpc.net/problem/2023) (🥇골드 5티어) <br>
+- [ ] [두 동전](https://www.acmicpc.net/problem/16197) (🥇골드 4티어) <br>
+- [ ] [Strahler 순서](https://www.acmicpc.net/problem/9470) (🥇골드 3티어) <br>
+- [ ] [ACM Craft](https://www.acmicpc.net/problem/1005) (🥇골드 3티어) <br>
+- [ ] [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) (🥇골드 3티어) <br>
+- [ ] [합리적인 이동경로](https://www.acmicpc.net/problem/2176) (🥇골드 2티어) <br>
+- [ ] [우수 마을](https://www.acmicpc.net/problem/1949) (🥇골드 1티어) <br>
 
 ## 시뮬레이션 강훈련
 > 삼성 취업 단톡방에서 공유하는 시뮬레이션 강훈련 문제입니다. 삼성 스타일이지만 시뮬을 연습하다 보면 속칭 빡구현 문제에 익숙해집니다. 삼성을 노리지 않더라도 시뮬쪽을 소홀히 하지 말고 공부하였으면 합니다! 생각을 조그만 잘못하면 실버 문제더라도 풀리지 않는 세심함이 많이 필요한 시뮬문제들입니다.
