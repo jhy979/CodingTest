@@ -78,7 +78,8 @@
 - [x] [가르침](https://www.acmicpc.net/problem/1062) (🥇골드 4티어) <br>
 👉 `생각대로 했는데 안된다? 반드시 엣지 케이스를 찾아봅시다. 이 경우 anta()tica를 처리해주니 바로 되었습니다.` <br>
 👉 `조합(Combination)을 만들고 싶다? DFS로 하되, 인자로 하나씩 증가하는 idx값을 넣어주어야합니다.`  <br><br>
-- [ ] [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) (🥇골드 5티어) <br>
+- [x] [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) (🥇골드 5티어) <br>
+👉 `가는 방향과 갈 수 있는 방향과 조건을 각기 다르게 해주면 쉽게 풀리는 문제!`  <br>
 
 ## 최고빈출 DFS, BFS 기본문제
 > 코딩테스트에서 최고 빈출 문제는 완전탐색, DFS, BFS라고 생각합니다. 연습할 수 있는 문제를 소개합니다. 해설은 제 블로그 [🏁 거침없는 코딩테스트 DFS BFS 문제 추천](https://covenant.tistory.com/147)를 참고하세요.
