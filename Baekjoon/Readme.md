@@ -94,7 +94,8 @@
 👉 `DFS알고리즘 특성상 최단거리를 찾으려면 완전 탐색을 하고 그중에서 가장 작은 값을 선택해야 하는데 경로가 아주  많을 수 있으므로 시간 복잡도가 매우 커집니다.` <br>
 👉 `반면 BFS는 최단거리를 보장하기 때문에 이러한 문제들(최단거리 구하기)은 BFS로 풀어야 한다고 합니다.` <br>
 👉 `BFS는 트리가 깊어지는 그런 느낌으로 최단거리를 보장합니다.` <br><br>
-- [ ] [음식물 피하기](https://www.acmicpc.net/problem/1743) (🥈실버 1티어) <br>
+- [x] [음식물 피하기](https://www.acmicpc.net/problem/1743) (🥈실버 1티어) <br>
+👉 `모든걸 dfs 안에서 하려고 하지말자! main안에서도 많은 것들을 할 수 있어!` <br><br>
 - [ ] [바이러스](https://www.acmicpc.net/problem/2606) (🥈실버 2티어) <br>
 - [ ] [A → B](https://www.acmicpc.net/problem/16953) (🥇 골드 5티어) <br>
 - [ ] [숨바꼭질 2](https://www.acmicpc.net/problem/12851) (🥇 골드 5티어) <br>
