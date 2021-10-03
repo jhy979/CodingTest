@@ -88,12 +88,11 @@
 👉 `배열 초기화 fill함수가 조금 이상하다고 느껴졌음` <br><br>
 - [x] [전투](https://www.acmicpc.net/problem/1303) (🥈실버 1티어) <br>
 👉 `그래프에서 가로 세로를 잘 보세요!` <br><br>
-- [ ] [미로 탐색](https://www.acmicpc.net/problem/2178) (🥈실버 1티어) <br>
+- [x] [미로 탐색](https://www.acmicpc.net/problem/2178) (🥈실버 1티어) <br>
 👉 `DFS냐 BFS냐?` <br>
 👉 `DFS알고리즘 특성상 최단거리를 찾으려면 완전 탐색을 하고 그중에서 가장 작은 값을 선택해야 하는데 경로가 아주  많을 수 있으므로 시간 복잡도가 매우 커집니다.` <br>
-👉 `반면 BFS는 최단거리를 보장하기 때문에 이러한 문제들(최단거리 구하기)은 BFS로 풀어야 한다고 합니다.` <br><br>
+👉 `반면 BFS는 최단거리를 보장하기 때문에 이러한 문제들(최단거리 구하기)은 BFS로 풀어야 한다고 합니다.` <br>
 👉 `BFS는 트리가 깊어지는 그런 느낌으로 최단거리를 보장합니다.` <br><br>
-
 - [ ] [음식물 피하기](https://www.acmicpc.net/problem/1743) (🥈실버 1티어) <br>
 - [ ] [바이러스](https://www.acmicpc.net/problem/2606) (🥈실버 2티어) <br>
 - [ ] [A → B](https://www.acmicpc.net/problem/16953) (🥇 골드 5티어) <br>
