@@ -1,4 +1,24 @@
 # map container
+---
+- 자주 사용하는 문법들
+
+```cpp
+  //선언 및 삽입
+  map <string,int> m;
+  m["hi"] = 1;
+  m.insert({"hi",1});
+  
+  // 탐색
+  for(auto itr:m){
+    cout << itr.first << itr.second;
+  }
+  
+  // 검색 --> 반복자 위치 반환, 없으면 m.end() 반환
+  m.find("hi");
+  
+```
+
+---
 
 1. Associative - 연관 컨테이너 (associative container) 중 하나입니다.
 
