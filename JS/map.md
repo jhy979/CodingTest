@@ -21,4 +21,13 @@
   
   // clear(): 모든 엔트리를 삭제
   you.clear();
+  
+  // 반복문 돌기
+  m.forEach((value,key)=>{
+    cout << key << value;
+  })
+  
+  for(const [key,value] of m){
+    cout << key << value;
+  }
 ```
