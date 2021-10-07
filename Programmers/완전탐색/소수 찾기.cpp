@@ -1,0 +1,53 @@
+#include <string>
+#include <vector>
+#include <algorithm>
+#include <iostream>
+#include <set>
+#define MAX 10000000
+using namespace std;
+int prime[MAX];
+int solution(string numbers) {
+    int answer = 0;
+    vector <int> arr;
+    for(int i = 0 ; i < MAX;i++){
+        prime[i]=1;
+    }
+    prime[0]=0;
+    prime[1]=0;
+    for(int i = 2 ; i < MAX ; i++){
+        if(prime[i]==0) continue;
+        for(int j=i+i; j<MAX; j+=i){
+            prime[j]=0;
+        }
+    }
+    // 입력 받기  
+    // permutation을 위해서는 가장 작은 수부터 진행해야 합니다.
+    sort(numbers.begin(),numbers.end(),less<int>());
+    for(int i = 0; i <numbers.size();i++){
+        arr.push_back(numbers[i]-'0');
+    }
+    // 순열
+    set <int> s;
+    vector<int> v;
+    do {
+        int sum = 0;
+        for(auto itr : arr){
+            sum = sum * 10 + itr;
+            s.insert(sum);
+            v.push_back(sum);
+        }
+    } while(next_permutation(arr.begin(),arr.end()));
+    sort(v.begin(),v.end());
+    v.erase(unique(v.begin(), v.end()), v.end());
+    
+    for(auto itr : s){
+        cout << itr <<"    ";
+        // if(prime[itr]==1)
+        //     answer++;
+    }
+    for(auto itr : v){
+        if(prime[itr]==1)
+            answer++;
+    }
+    return answer;
+}
