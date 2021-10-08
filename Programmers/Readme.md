@@ -22,4 +22,4 @@
 👍 `next_permutation을 할 때에는 반드시 초기 값을 최소 값으로 지정해야하므로 sort(,,less)를 진행해야합니다.` <br><br>
 
 ## 정렬
--[x] [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) <Lv. 1> <br>
+- [x] [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) <Lv. 1> <br>
