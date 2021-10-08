@@ -24,8 +24,10 @@
 ## 정렬
 - [x] [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) <Lv. 1> <br>
 - [x] [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) <Lv. 2> <br>
-👍 `비교 함수를 만들 때 string할 때에는 정말 그 기준대로 생각을 해보세요. a+b > b+a` <br><br>
+👍 `비교 함수를 만들 때 string할 때에는 정말 그 기준대로 생각을 해보세요. a+b > b+a` <br>
 👍 `조건에서 0을 포함한다? 이건 반드시 예외 케이스가 존재하는 것이니 반드시 체크해주세요.` <br><br>
 
 ## 그래프
-- [x] [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189#) (Lv. 3) <br>
+- [x] [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) (Lv. 3) <br>
+- [x] [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) (Lv. 3) <br>
+👍 `플로이드와샬은 for문 순서를 bac로 작성해야 ab bc => ac 라고 판단할 수 있습니다.` <br><br>
