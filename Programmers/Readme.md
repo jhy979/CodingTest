@@ -37,4 +37,6 @@
 - [x] [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) (Lv. 3) <br>
 👍 `집합 개수는 dfs 밖에서 해결합시다.` <br>
 👍 `dfs는 노드 개수를 기준으로 합시다.` <br><br>
+- [x] [단어 변환 ](https://programmers.co.kr/learn/courses/30/lessons/43163) (Lv. 3) <br>
+👍 `최솟값을 갱신하는 경우에는 dfs를 나와서 visited를 false로 바꿔줘야 모든 경우를 탐색할 수 있습니다.` <br><br>
 
