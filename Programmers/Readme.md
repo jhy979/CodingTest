@@ -32,11 +32,14 @@
 - [x] [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) (Lv. 3) <br>
 👍 `플로이드와샬은 for문 순서를 bac로 작성해야 ab bc => ac 라고 판단할 수 있습니다.` <br><br>
 
-## DFS/BFS
+## DFS / BFS
 - [x] [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) (Lv. 2) <br>
 - [x] [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) (Lv. 3) <br>
 👍 `집합 개수는 dfs 밖에서 해결합시다.` <br>
 👍 `dfs는 노드 개수를 기준으로 합시다.` <br><br>
-- [x] [단어 변환 ](https://programmers.co.kr/learn/courses/30/lessons/43163) (Lv. 3) <br>
+- [x] [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) (Lv. 3) <br>
 👍 `최솟값을 갱신하는 경우에는 dfs를 나와서 visited를 false로 바꿔줘야 모든 경우를 탐색할 수 있습니다.` <br><br>
 
+## 스택 / 큐
+- [x] [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) (Lv. 2)
+👍 `큐나 스택은 반드시 pop을 하기 전과 후의 생각을 합시다. 먼저 pop하고 연산해버리는 실수를 하지 말자!` <br><br>
