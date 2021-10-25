@@ -104,8 +104,8 @@
 👉 `최단거리는 앵간해서 BFS` <br>
 👉 `반드시 visited 체크는 필수입니다!` <br><br>
 - [x] [숨바꼭질 3](https://www.acmicpc.net/problem/13549) (🥇 골드 5티어) <br>
-- [x [숨바꼭질 4](https://www.acmicpc.net/problem/13913) (🥇 골드 4티어) <br>
-👉 `visited 체크를 최대한 ` <br>
+- [x] [숨바꼭질 4](https://www.acmicpc.net/problem/13913) (🥇 골드 4티어) <br>
+👉 `visited 체크를 최대한 하자 (겹치는 듯 해도 계속하자)` <br>
 👉 `경로 출력을 하기위해 push할 때마다 parent를 연결 연결해주자` <br><br>
 - [ ] [이모티콘](https://www.acmicpc.net/problem/14226) (🥇 골드 5티어) <br>
 - [ ] [아기 상어2](https://www.acmicpc.net/problem/17086) (🥇 골드 5티어) <br>
