@@ -94,21 +94,32 @@
 👉 `DFS알고리즘 특성상 최단거리를 찾으려면 완전 탐색을 하고 그중에서 가장 작은 값을 선택해야 하는데 경로가 아주  많을 수 있으므로 시간 복잡도가 매우 커집니다.` <br>
 👉 `반면 BFS는 최단거리를 보장하기 때문에 이러한 문제들(최단거리 구하기)은 BFS로 풀어야 한다고 합니다.` <br>
 👉 `BFS는 트리가 깊어지는 그런 느낌으로 최단거리를 보장합니다.` <br><br>
+
 - [x] [음식물 피하기](https://www.acmicpc.net/problem/1743) (🥈실버 1티어) <br>
 👉 `모든걸 dfs 안에서 하려고 하지말자! main안에서도 많은 것들을 할 수 있어!` <br><br>
 - [x] [바이러스](https://www.acmicpc.net/problem/2606) (🥈실버 2티어) <br>
 👉 `완전탐색을 배열로 하든, 연결리스트로 하든 반드시 (u,v) (v,u) 양쪽을 초기화 시켜줍시다.` <br><br>
+
 - [x] [A → B](https://www.acmicpc.net/problem/16953) (🥇 골드 5티어) <br>
+
 👉 `10^9에서 long long 을 사용했는데 아마 *10 +1을 하는 과정에서 100억이기 때문에 long long을 써야하는 듯 합니다.` <br><br>
 - [x] [숨바꼭질 2](https://www.acmicpc.net/problem/12851) (🥇 골드 5티어) <br>
 👉 `최단거리는 앵간해서 BFS` <br>
 👉 `반드시 visited 체크는 필수입니다!` <br><br>
+
 - [x] [숨바꼭질 3](https://www.acmicpc.net/problem/13549) (🥇 골드 5티어) <br>
+
+
 - [x] [숨바꼭질 4](https://www.acmicpc.net/problem/13913) (🥇 골드 4티어) <br>
 👉 `visited 체크를 최대한 하자 (겹치는 듯 해도 계속하자)` <br>
 👉 `경로 출력을 하기위해 push할 때마다 parent를 연결 연결해주자` <br><br>
-- [ ] [이모티콘](https://www.acmicpc.net/problem/14226) (🥇 골드 5티어) <br>
+
+- [x] [이모티콘](https://www.acmicpc.net/problem/14226) x(🥇 골드 5티어) <br>
+👉 `visited 체크는 메모리 초과를 막습니다.` <br>
+👉 `MAX보다 좀 더 더해서 -로 돌아오는 부분도 생각합시다` <br><br>
+
 - [ ] [아기 상어2](https://www.acmicpc.net/problem/17086) (🥇 골드 5티어) <br>
+
 - [ ] [달리기](https://www.acmicpc.net/problem/16930) (🏅 플래티넘 3티어) <br>
 
 ## DP 문제풀이 강훈련 백준 문제 추천
