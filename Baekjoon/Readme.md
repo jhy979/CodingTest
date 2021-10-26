@@ -118,8 +118,10 @@
 👉 `visited 체크는 메모리 초과를 막습니다.` <br>
 👉 `MAX보다 좀 더 더해서 -로 돌아오는 부분도 생각합시다` <br><br>
 
-- [ ] [아기 상어2](https://www.acmicpc.net/problem/17086) (🥇 골드 5티어) <br>
-
+- [x] [아기 상어2](https://www.acmicpc.net/problem/17086) (🥇 골드 5티어) <br>
+👉 `arr[50][50]이면 fill(&arr[0][0],&arr[49][50],false)` <br>
+👉 `fill(&arr[0][0], &arr[ROW -1][COL], value) ` <br><br>
+ 
 - [ ] [달리기](https://www.acmicpc.net/problem/16930) (🏅 플래티넘 3티어) <br>
 
 ## DP 문제풀이 강훈련 백준 문제 추천
