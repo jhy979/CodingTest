@@ -127,7 +127,9 @@
 ## DP 문제풀이 강훈련 백준 문제 추천
 > 예전보다 DP 출제빈도가 떨어진 것 같지만, 여전히 출제되는 DP 문제입니다. 아래의 문제를 풀었을 때 감이 안 온다면 [YES24. 다이나믹 프로그래밍](http://www.yes24.com/Product/Goods/3356129?OzSrank=1) 책을 통해서 DP 문제의 접근방법을 익히는 것을 추천합니다.
 
-- [ ] [퇴사 2](https://www.acmicpc.net/problem/15486) (🥈실버 2티어) <br>
+- [x] [퇴사 2](https://www.acmicpc.net/problem/15486) (🥈실버 2티어) <br>
+👉 `마치 뜀틀을 하듯이 채워나갑니다.` <br>
+👉 `점화식? 같은 개념을 잘 세워봅시다.` <br><br>
 - [ ] [점프](https://www.acmicpc.net/problem/1890) (🥈실버 2티어) <br>
 - [ ] [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989) (🥈실버 1티어) <br>
 - [ ] [기타리스트](https://www.acmicpc.net/problem/1495) (🥈실버 1티어) <br>
