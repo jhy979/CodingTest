@@ -131,6 +131,8 @@
 👉 `마치 뜀틀을 하듯이 채워나갑니다.` <br>
 👉 `점화식? 같은 개념을 잘 세워봅시다.` <br><br>
 - [ ] [점프](https://www.acmicpc.net/problem/1890) (🥈실버 2티어) <br>
+👉 `값이 너무 커지면 DP를 의심해볼 것 (이 문제는 경우의 수가 2^63-1개 라는 것에서도 눈치를 챘어야합니다.)` <br>
+👉 `2차원 배열 문제도 꼭 bfs, dfs가 아닐 수 있어요.` <br><br>
 - [ ] [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989) (🥈실버 1티어) <br>
 - [ ] [기타리스트](https://www.acmicpc.net/problem/1495) (🥈실버 1티어) <br>
 - [ ] [크리보드](https://www.acmicpc.net/problem/11058) (🥈실버 1티어) <br>
